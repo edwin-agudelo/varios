@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1562122460 source:/home/edwin/Development/CodeBlocks/CargaConf/main.c
+	<stdio.h>
+	<stdlib.h>
+	"configura.h"
+
+1562123269 /home/edwin/Development/CodeBlocks/CargaConf/configura.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<errno.h>
+	"utiles.h"
+
+1562122587 /home/edwin/Development/CodeBlocks/CargaConf/utiles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
