@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1579273359 source:d:\sourcecode\codeblokcs\busqbt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	"include/BTEAG.h"
+	"include/DataConta.h"
+	"include/UtilesC.h"
+	"include/Ordenar.h"
+
+1579295191 d:\sourcecode\codeblokcs\busqbt\include\bteag.h
+	"UtilesC.h"
+	"DataConta.h"
+	"Ordenar.h"
+
+1579276660 d:\sourcecode\codeblokcs\busqbt\include\dataconta.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1579282886 d:\sourcecode\codeblokcs\busqbt\include\utilesc.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1579276086 d:\sourcecode\codeblokcs\busqbt\include\ordenar.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"UtilesC.h"
+
